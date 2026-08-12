@@ -32,9 +32,3 @@ The **AWS Management Console** is a web-based interface used to create, configur
 * Database management
 * Disaster recovery
 * Data analytics and AI
-
-## Screenshot
-
-![AWS Official Homepage or Console](screenshots/aws/aws-screenshot.png)
-
-**Official Website:** https://aws.amazon.com/
