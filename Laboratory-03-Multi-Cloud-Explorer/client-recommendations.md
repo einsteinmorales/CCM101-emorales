@@ -1,3 +1,5 @@
+# Checkpoint 4
+
 # Cloud Platform Recommendations
 
 ## Client A – Startup Company
@@ -23,3 +25,16 @@ GCP is a strong choice for an AI and Machine Learning research company because o
 **Recommended Platform: AWS**
 
 AWS is suitable for a global e-commerce company because it provides a large worldwide infrastructure and highly scalable services. The company can deploy applications across multiple regions and automatically adjust resources based on customer demand. AWS also provides services for databases, storage, networking, and content delivery. The company could use **Amazon EC2, Amazon S3, and Amazon CloudFront**.
+
+
+# Checkpoint 6
+## Multi-Cloud Decision Matrix
+
+| Business Requirement        | Recommended Platform | Justification                                                          |
+| --------------------------- | -------------------- | ---------------------------------------------------------------------- |
+| **Startup Company**         | AWS                  | Flexible services, scalability, and pay-as-you-go options.             |
+| **Enterprise Organization** | AWS                  | Wide range of services and strong global infrastructure.               |
+| **Microsoft Environment**   | Azure                | Strong integration with Microsoft products and services.               |
+| **AI / Machine Learning**   | GCP                  | Strong AI, machine learning, and data analytics services.              |
+| **Kubernetes Deployment**   | GCP                  | Google created Kubernetes and provides Google Kubernetes Engine (GKE). |
+| **Global Web Application**  | AWS                  | Large global infrastructure and scalable web services.                 |
